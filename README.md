@@ -1,6 +1,6 @@
 # About
 
-This is Vadym's Sichkar personal website. 
+This is [Vadym's Sichkar personal website](https://v-si4r.github.io/). 
 The theme takes visual inspiration from [Ataraxia](https://gersonbdev.github.io/) by [Zola](https://www.getzola.org/).
 
 ## Pre-requisites
