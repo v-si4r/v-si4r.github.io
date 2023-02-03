@@ -58,8 +58,8 @@ hard_link_static = false
         ]
 
     [extra.seo]
-        google_analytics = ""
-        google_search_console = ""
+        google_analytics = "G-7RMGW30SCG"
+        google_search_console = "bHvL1R7rnIkvvOGEHARqEgtXEPzz5paioqZbq_gTQQQ"
     [extra.comments]
         disqus = "vsi4r"
 
